@@ -1,6 +1,6 @@
 # TrabFinal
 ## Intro
-## **Descripcion**
+### **Descripcion**
 En el siguiente Web Scraping se presentará un análisis de jugadores, records, estadísticas y demas cosas que jugadores de la NBA desde diferentes fuentes. Como recomendación, analizaremos la pagína de Basketball Reference https://www.basketball-reference.com/ y la de ESPN https://www.espn.com/nba/
 ### **Alcances** 
 Presentamos un total de 4 archivos .ipynb con los códigos que nos permitirán llegar al objetivo. Estos serán del análisis del contraste sobre un mismo que presentan las páginas visitadas. Además de diferencias entre jugadores en temporadas extremas, 1991 -2022.
