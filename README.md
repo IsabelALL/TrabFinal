@@ -8,7 +8,9 @@ Presentamos un total de 4 archivos .ipynb con los códigos que nos permitirán l
 2. Web_Scraping_NBA.ipynb
 3. WebScraping_Jugadores_NBA-checkpoint.ipynb
 4. nba-jugadores.ipynb
+
 Ademas de los códigos, cargamos los resultado necesarios en tablas .csv y .html, dende se muestran los objetivos descritos.
+
 1. SCurry.csv
 2. nbas.csv
 3. records.csv
